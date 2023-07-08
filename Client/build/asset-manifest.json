@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Torture-Phrases-Tool-master/static/css/main.a2ce5565.css",
+    "main.js": "/Torture-Phrases-Tool-master/static/js/main.aac72853.js",
+    "index.html": "/Torture-Phrases-Tool-master/index.html",
+    "main.a2ce5565.css.map": "/Torture-Phrases-Tool-master/static/css/main.a2ce5565.css.map",
+    "main.aac72853.js.map": "/Torture-Phrases-Tool-master/static/js/main.aac72853.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2ce5565.css",
+    "static/js/main.aac72853.js"
+  ]
+}
